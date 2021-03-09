@@ -1,12 +1,12 @@
 """
-Biblioteca para reconocer códigos de barras.
+Biblioteca para reconocer algunos códigos de barras.
 """
 
 class Code39Recognizer:
     """
         Code39 barcode recognizer.
     """
-    def recognize(self, image, x, y, width, height):
+    def recognize(self, codebar_image, x, y, width, height):
         """
         Método que reconoce el código de barras que se le pasa por parámetros.
 
