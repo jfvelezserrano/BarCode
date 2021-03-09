@@ -1,0 +1,4 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+DocumentoCompleto.bmp,190210,"{}",1,0,"{""name"":""rect"",""x"":762,""y"":552,""width"":495,""height"":113}","{""Barcode"":""165000003317023000335007020035794880106""}"
+DocumentoCompleto2.bmp,190210,"{}",1,0,"{""name"":""rect"",""x"":709,""y"":518,""width"":666,""height"":119}","{""Barcode"":""888100587964779801280000220030000013107""}"
+DocumentoCompleto3.bmp,190210,"{}",1,0,"{""name"":""rect"",""x"":747,""y"":489,""width"":735,""height"":122}","{""Barcode"":""0090309005358730000042949801260001640209114067""}"
